@@ -29,8 +29,8 @@ To install `column-selection` search for [column-selection](https://web.pulsar-e
 
 Commands available in `atom-workspace`:
 
-- `column-selection:sticky`: <kbd>Alt+Q</kbd> toggle sticky column selection mode,
-- `column-selection:picker`: <kbd>Ctrl+Q</kbd> toggle picker column selection mode.
+- `column-selection:sticky`: toggle sticky column selection mode,
+- `column-selection:picker`: toggle picker column selection mode.
 
 ## Customization
 
