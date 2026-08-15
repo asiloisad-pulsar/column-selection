@@ -23,7 +23,7 @@ Create multiple selections across lines by dragging. Enables column/block select
 
 ## Installation
 
-To install `column-selection` search for [column-selection](https://web.pulsar-edit.dev/packages/column-selection) in the Install pane of the Pulsar settings or run `ppm install column-selection`. Alternatively, you can run `ppm install asiloisad/pulsar-column-selection` to install a package directly from the GitHub repository.
+To install `column-selection` search for [column-selection](https://web.pulsar-edit.dev/packages/column-selection) in the Install pane of the Pulsar settings or run `ppm install column-selection`. Alternatively, you can run `ppm install asiloisad-pulsar/column-selection` to install a package directly from the GitHub repository.
 
 ## Commands
 
