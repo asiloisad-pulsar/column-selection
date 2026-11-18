@@ -2,6 +2,9 @@
 
 Create multiple selections across lines by dragging. Enables column/block selection with carets on each line for efficient multi-line editing.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [column-selection](https://github.com/lumine-code/column-selection).
+
 ![sticky](https://github.com/asiloisad-pulsar/column-selection/blob/master/assets/sticky.gif?raw=true)
 
 ![picker](https://github.com/asiloisad-pulsar/column-selection/blob/master/assets/picker.gif?raw=true)
